@@ -1,0 +1,12 @@
+{
+    "python.testing.pytestArgs": [
+        "TestDrivenDevelopment"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "terminal.integrated.env.windows": {
+      "PYTHONPATH": "${workspaceFolder}"
+    }
+  }
+  
